@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Fate Walkthrough',
+					link: 'https://pastebin.com/STsBKwWE',
 				},
 			],
 		},
